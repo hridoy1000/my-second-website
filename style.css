@@ -1,8 +1,12 @@
 body{
-    color: black;
+    background-color: black;
 }
 
 h3{
     text-align: center;
     color: rgba(190, 185, 185, 0.89);
+}
+p{
+    text-align: center;
+    color: coral;
 }
